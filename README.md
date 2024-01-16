@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p align="bottom-left">
+<p align="center">
 	<a href="https://user.ceng.metu.edu.tr/~e2633741/assets/files/%C4%B0sa%20Adahan%20%C3%9Cnal%20CV.pdf"><img src="imgs/cv.svg" alt="Curriculum Vitae"></a>
 	<a href="https://github.com/kodadasiofficial"><img src="imgs/github.svg" alt="GitHub"></a>
 	<a href="https://www.linkedin.com/in/isaadahanunal"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
